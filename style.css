@@ -1,0 +1,47 @@
+
+div.imgkb{
+padding: 0px;
+    margin: 5px;
+}
+div.imgkb2{
+    margin: 5px;
+    padding:0px;
+}
+H1{
+    text-align:center;
+    font-size: x-large;
+    font-weight: 900;
+    background-color:#c72c41;
+    /* width: 25vw; */
+    border-radius: 5px;
+padding: 10px;
+}
+p{
+    font-family:monospace;
+    color:black;
+}
+body{
+    background-color: cornsilk;
+}
+button{
+    color: rgb(0, 0, 0);
+    background-color: blue;
+}
+div.button{
+    text-align:right;
+font-weight: 600;
+    font-size: medium;
+    border-radius: 10px;
+}
+div.form-group{
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+div.row{
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma,;
+}
+  
